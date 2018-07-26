@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dev Android Lean</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="telefone_celular">Telefone celular</string>
+    <string name="data_nascimento">Data Nascimento</string>
+    <string name="finalizar_cadastro">Finalizar Cadastro</string>
+    <string name="limpar_formul_rio">Limpar Formulário</string>
+    <string name="insira_o_cep">Insira o CEP</string>
+    <string name="endere_o">Endereço</string>
+    <string name="insira_o_bairro">Insira o Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="endere_os">Endereços</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="nova_pessoa">Nova Pessoa</string>
+    <string name="novo_endere_o">Novo Endereço</string>
+    <string name="channel_dev_android_lean">IDChannelAndroidDevLean</string>
+    <string name="channel_dev_android_lean_name">Canal de Pushes Android Oreo+</string>
+    <string name="channel_dev_android_lean_desc">Descrição Canal de Pushes Android O+</string>
+    <string name="telefone">Telefone</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="cep">Cep</string>
+    <string name="bairro">Bairro</string>
+</resources>
